@@ -1,0 +1,2 @@
+
+export const CHANGE_USER_PICTURE = 'CHANGE_USER_PICTURE';

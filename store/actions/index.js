@@ -1,0 +1,2 @@
+
+export { changeUserPic } from './user';
